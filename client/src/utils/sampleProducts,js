@@ -1,0 +1,138 @@
+
+export  const sampleProducts = [
+  {
+    id: 1,
+    title: "Redmi Note 14 5G (Ivy Green, 6GB RAM 128GB Storage) | Global Debut MTK Dimensity 7025 Ultra | 2100 nits Segment Brightest 120Hz AMOLED | 50MP Sony LYT 600 OIS+EIS Triple Camera",
+    mrp : ' ₹21,999',
+    discount : '23%', 
+    discountedPrice: "₹16,998",
+    image: "https://m.media-amazon.com/images/I/71+a1GKFXSL._SL1500_.jpg",
+    link : 'https://amzn.to/3Iy50uI'
+  },
+  {
+    id: 2,
+    title: "ZEBRONICS PS5SC,Vertical PS5 Docking Station, 5000RPM 3 Level Fan, 2X Dual Sense 3H Rapid Charging Dock, Headset Hanger, 14x Disk Holder, RGB, Supports PS5 Standard | Slim | Pro (Disk & Digital)",
+    mrp : '₹4,999',
+    discount : '60%',
+    discountedPrice: "₹1,999",
+    image: "https://m.media-amazon.com/images/I/61Sn80py8yL._SX522_.jpg",
+    link : 'https://amzn.to/3UfARTr'
+  }, 
+  {
+    id: 3,
+    title: "BrandFlex Study Table Bed Table Premium Laptop Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School (U$A COTTED ABLACK), 59.7 cm, 10 cm",
+    mrp : '₹999',
+    discount : '57%', 
+    discountedPrice: "₹429",
+    image: "https://m.media-amazon.com/images/I/71eRj48+bzL._SX522_.jpg",
+    link : 'https://amzn.to/44VaAPq'
+  },
+  {
+    id: 4,
+    title: "Leriya Fashion Printed Maxi Dress for Women – Trendy Long One Piece Summer Outfit | Lightweight Flared Dress for Casual & Holiday Wear",
+    mrp : '₹1,999',
+    discount : '77%', 
+    discountedPrice: "₹459",
+    image: "https://m.media-amazon.com/images/I/61AYMojU0DL._SY741_.jpg",
+    link : 'https://amzn.to/4fcuLgB'
+  },
+  {
+    id: 5,
+    title: "HEELIUM Versatile Bamboo Bandana Scarf | Elegant Neck Warmer, Sun & Dust Protection | Multipurpose Muffler for Fashion & Comfort",
+    mrp : '₹999',
+    discount : '50%', 
+    discountedPrice: "₹499",
+    image: "https://m.media-amazon.com/images/I/71Hb8FRGBwL._SX679_.jpg",
+    link : 'https://amzn.to/40i1cUA'
+  },
+  {
+    id: 6,
+    title: "Leriya Fashion Women's Fit and Flare Bohemian Dress | Elegant V-Neck | Tiered Flowy | Long Dress | Lightweight Summer Wear | Casual Gown for Beach Dresses",
+    mrp : '  ₹1,999',
+    discount : '73%', 
+    discountedPrice: "₹539",
+    image: "https://m.media-amazon.com/images/I/61jrrMmAfPL._SY550_.jpg",
+    link : 'https://amzn.to/40RF7fx'
+  },
+  {
+    id: 7,
+    title: "BrandFlex Study Table Bed Table Premium Laptop Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School (U$A COTTED ABLACK), 59.7 cm, 10 cm",
+    mrp : ' ₹999',
+    discount : '57%', 
+    discountedPrice: "429 ₹42,900.00 per g",
+    image: "https://m.media-amazon.com/images/I/71eRj48+bzL._SX522_.jpg",
+    link : 'https://amzn.to/44VaAPq'
+  },
+  {
+    id: 8,
+    title: "BrandFlex Study Table Bed Table Premium Laptop Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School (U$A COTTED ABLACK), 59.7 cm, 10 cm",
+    mrp : ' ₹999',
+    discount : '57%', 
+    discountedPrice: "429 ₹42,900.00 per g",
+    image: "https://m.media-amazon.com/images/I/71eRj48+bzL._SX522_.jpg",
+    link : 'https://amzn.to/44VaAPq'
+  },
+  {
+    id: 9,
+    title: "BrandFlex Study Table Bed Table Premium Laptop Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School (U$A COTTED ABLACK), 59.7 cm, 10 cm",
+    mrp : ' ₹999',
+    discount : '57%', 
+    discountedPrice: "429 ₹42,900.00 per g",
+    image: "https://m.media-amazon.com/images/I/71eRj48+bzL._SX522_.jpg",
+    link : 'https://amzn.to/44VaAPq'
+  },
+  {
+    id: 10,
+    title: "BrandFlex Study Table Bed Table Premium Laptop Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School (U$A COTTED ABLACK), 59.7 cm, 10 cm",
+    mrp : ' ₹999',
+    discount : '57%', 
+    discountedPrice: "429 ₹42,900.00 per g",
+    image: "https://m.media-amazon.com/images/I/71eRj48+bzL._SX522_.jpg",
+    link : 'https://amzn.to/44VaAPq'
+  },
+  {
+    id: 11,
+    title: "BrandFlex Study Table Bed Table Premium Laptop Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School (U$A COTTED ABLACK), 59.7 cm, 10 cm",
+    mrp : ' ₹999',
+    discount : '57%', 
+    discountedPrice: "429 ₹42,900.00 per g",
+    image: "https://m.media-amazon.com/images/I/71eRj48+bzL._SX522_.jpg",
+    link : 'https://amzn.to/44VaAPq'
+  },
+  {
+    id: 12,
+    title: "BrandFlex Study Table Bed Table Premium Laptop Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School (U$A COTTED ABLACK), 59.7 cm, 10 cm",
+    mrp : ' ₹999',
+    discount : '57%', 
+    discountedPrice: "429 ₹42,900.00 per g",
+    image: "https://m.media-amazon.com/images/I/71eRj48+bzL._SX522_.jpg",
+    link : 'https://amzn.to/44VaAPq'
+  },
+  {
+    id: 13,
+    title: "BrandFlex Study Table Bed Table Premium Laptop Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School (U$A COTTED ABLACK), 59.7 cm, 10 cm",
+    mrp : ' ₹999',
+    discount : '57%', 
+    discountedPrice: "429",
+    image: "https://m.media-amazon.com/images/I/71eRj48+bzL._SX522_.jpg",
+    link : 'https://amzn.to/44VaAPq'
+  },
+  {
+    id: 14,
+    title: "BrandFlex Study Table Bed Table Premium Laptop Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School (U$A COTTED ABLACK), 59.7 cm, 10 cm",
+    mrp : ' ₹999',
+    discount : '57%', 
+    discountedPrice: "1,695",
+    image: "https://m.media-amazon.com/images/I/71eRj48+bzL._SX522_.jpg",
+    link : 'https://amzn.to/44VaAPq'
+  },
+  {
+    id: 15,
+    title: "Pikkme D5 Tough Armor Bumper Case | 360 Protection Case | Ring Holder Stand Back Cover for Redmi Note 14 5G (Blue)",
+    mrp : '₹999',
+    discount : '70%', 
+    discountedPrice: " ₹299",
+    image: "https://m.media-amazon.com/images/I/61pLsllRGSL._SY355_.jpg",
+    link : 'hhttps://amzn.to/4kLiSiP'
+  },
+];
